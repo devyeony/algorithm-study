@@ -17,7 +17,6 @@ assignees: 'devyeony, iamleonardjeong, Orwoong, jo1013'
 
 ## ✔️ Progress
 
-- [ ] Aiden 완료
-- [ ] Hayden 완료 
-- [ ] Leonard 완료
-- [ ] Sawyer 완료
+- [ ]
+- [ ] 
+- [ ] 
