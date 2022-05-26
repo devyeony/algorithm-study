@@ -1,9 +1,9 @@
 ---
 name: General Issue Template
 about: 일반적인 이슈 템플릿
-title: '알고리즘 주제 : ##'
+title: '알고리즘 주제 : '
 labels: 'problem solving'
-assignees: '@devyeony'
+assignees: '@devyeony @iamleonardjeong @Orwoong @jo1013'
 
 ---
 
