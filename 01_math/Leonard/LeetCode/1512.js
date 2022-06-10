@@ -1,4 +1,5 @@
 // Number of Good Pairs
+
 // Given an array of integers nums, return the number of good pairs.
 
 const numIdenticalPairs = (nums) => {
