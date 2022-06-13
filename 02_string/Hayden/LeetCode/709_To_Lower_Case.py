@@ -1,4 +1,4 @@
-# #13 - LeetCode : 1859. Sorting the Sentence
+# #13 - LeetCode : 709. To Lower Case
 
 class Solution:
     def toLowerCase(self, s: str) -> str:
