@@ -15,19 +15,23 @@ class Solution1:
         return count_list
 
 
-# 2차 시도 : 92 ms
+# 2차 시도 : 130 ms
 class Solution2:
     def minOperations(self, boxes: str) -> List[int]:
-        count_list = [0] * len(boxes)
-        ones = 0  # 1의 개수
+        first_count = 0  # count_list[0]에 들어갈 첫번째 카운팅
+        ones = 0  # 1의 총 개수
         for i, box in enumerate(boxes):
-            if box == '1':
-                count_list[0] += i
+            if box == "1":
+                first_count += i
                 ones += 1
-        visited = 0
-        for i in range(1, len(boxes)):
-            count_list[i] = count_list[i-1] - (ones - visited) + visited
-            if boxes[i] == '1':
+        count_list = [0] * len(boxes)
+        visited = 0  # 1이 나온 횟수
+        for i in range(len(boxes)):
+            if i == 0:
+                count_list[0] = first_count
+            else:
+                count_list[i] = count_list[i - 1] - (ones - visited) + visited
+            if boxes[i] == "1":
                 visited += 1
         return count_list
 
