@@ -15,25 +15,24 @@ class Solution1:
         return count_list
 
 
-# 2차 시도 : 130 ms
-class Solution2:
-    def minOperations(self, boxes: str) -> List[int]:
-        first_count = 0  # count_list[0]에 들어갈 첫번째 카운팅
-        ones = 0  # 1의 총 개수
-        for i, box in enumerate(boxes):
-            if box == "1":
-                first_count += i
-                ones += 1
-        count_list = [0] * len(boxes)
-        visited = 0  # 1이 나온 횟수
+# 2차 시도 : 76 ms
+class Solution2(object):
+    def minOperations(self, boxes):
+        all_box_count, all_move = 0, 0
+        ret = [0] * len(boxes)
         for i in range(len(boxes)):
-            if i == 0:
-                count_list[0] = first_count
-            else:
-                count_list[i] = count_list[i - 1] - (ones - visited) + visited
-            if boxes[i] == "1":
-                visited += 1
-        return count_list
+            all_move += all_box_count
+            if boxes[i] == '1':
+                all_box_count += 1
+            ret[i] += all_move
+
+        all_box_count, all_move = 0, 0
+        for i in range(len(boxes) - 1, -1, -1):
+            all_move += all_box_count
+            if boxes[i] == '1':
+                all_box_count += 1
+            ret[i] += all_move
+        return ret
 
 
 sol = Solution2()
