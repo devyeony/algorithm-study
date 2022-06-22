@@ -17,12 +17,11 @@
 <a href="https://github.com/devyeony/algorithm-study/issues?q=is%3Aissue+is%3Aopen"><img src="https://img.shields.io/github/issues-raw/devyeony/algorithm-study?color=gree"></a>
 <a href="https://github.com/devyeony/algorithm-study/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/devyeony/algorithm-study?color=red"></a>
 
-[알고리즘 문제 커리큘럼 참고](https://solved.ac/)
-|Period|Theme|Issue|Code|
-|:---:|:---:|:---:|:---:|
-|2022-05-26 ~ 2022-06-08|수학|[이슈](https://github.com/devyeony/algorithm-study/issues/2)|[문제풀이](https://github.com/devyeony/algorithm-study/tree/main/01_math)|
-|||
-|||
-|||
-
-
+[알고리즘 문제 커리큘럼 참고](https://solved.ac/problems/tags)
+|Period|Theme|Issue|Code|Presentation|
+|:---:|:---:|:---:|:---:|:---:|
+|2022-05-26 ~ 2022-06-08|수학(Math)|[이슈](https://github.com/devyeony/algorithm-study/issues/2)|[문제풀이](https://github.com/devyeony/algorithm-study/tree/main/01_math)|[2022-06-02 발표](https://github.com/devyeony/algorithm-study/wiki/2022-06#-2022-06-02)<br/>[2022-06-09 발표](https://github.com/devyeony/algorithm-study/wiki/2022-06#-2022-06-09)|
+|2022-06-09 ~ 2022-06-15|문자열(String)|[이슈](https://github.com/devyeony/algorithm-study/issues/13)|[문제풀이](https://github.com/devyeony/algorithm-study/tree/main/02_string)|[2022-06-16 발표](https://github.com/devyeony/algorithm-study/wiki/2022-06#-2022-06-16)|
+|2022-06-16 ~ 2022-06-22|그리디(Greedy)|[이슈]()|[문제풀이]()|[2022-06-22 발표]()|
+||||
+||||
