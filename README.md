@@ -22,6 +22,6 @@
 |:---:|:---:|:---:|:---:|:---:|
 |2022-05-26 ~ 2022-06-08|수학(Math)|[이슈](https://github.com/devyeony/algorithm-study/issues/2)|[문제풀이](https://github.com/devyeony/algorithm-study/tree/main/01_math)|[2022-06-02 발표](https://github.com/devyeony/algorithm-study/wiki/2022-06#-2022-06-02)<br/>[2022-06-09 발표](https://github.com/devyeony/algorithm-study/wiki/2022-06#-2022-06-09)|
 |2022-06-09 ~ 2022-06-15|문자열(String)|[이슈](https://github.com/devyeony/algorithm-study/issues/13)|[문제풀이](https://github.com/devyeony/algorithm-study/tree/main/02_string)|[2022-06-16 발표](https://github.com/devyeony/algorithm-study/wiki/2022-06#-2022-06-16)|
-|2022-06-16 ~ 2022-06-22|그리디(Greedy)|[이슈](https://github.com/devyeony/algorithm-study/issues/21)|[문제풀이](https://github.com/devyeony/algorithm-study/tree/main/03_greed)|[2022-06-23 발표](https://github.com/devyeony/algorithm-study/wiki/2022-06#-2022-06-23)<br/>[2022-06-30 발표](https://github.com/devyeony/algorithm-study/wiki/2022-06#-2022-06-30)|
+|2022-06-16 ~ 2022-06-22|그리디(Greedy)|[이슈](https://github.com/devyeony/algorithm-study/issues/21)|[문제풀이](https://github.com/devyeony/algorithm-study/tree/main/03_greedy)|[2022-06-23 발표](https://github.com/devyeony/algorithm-study/wiki/2022-06#-2022-06-23)<br/>[2022-06-30 발표](https://github.com/devyeony/algorithm-study/wiki/2022-06#-2022-06-30)|
 ||||
 ||||
