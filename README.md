@@ -10,7 +10,7 @@
 |:---:|:---:|
 |Aiden|[@Orwoong](https://github.com/Orwoong)|
 |Hayden|[@devyeony](https://github.com/devyeony)|
-|Leonard|[@iamhoonjeong](https://github.com/iamhoonjeong)|
+|Hoon|[@iamhoonjeong](https://github.com/iamhoonjeong)|
 |Sawyer|[@jo1013](https://github.com/jo1013)|
 
 ## 🔎 Theme
