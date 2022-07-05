@@ -16,6 +16,8 @@
 ## 🔎 Theme
 <a href="https://github.com/devyeony/algorithm-study/issues?q=is%3Aissue+is%3Aopen"><img src="https://img.shields.io/github/issues-raw/devyeony/algorithm-study?color=gree"></a>
 <a href="https://github.com/devyeony/algorithm-study/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/devyeony/algorithm-study?color=red"></a>
+<a href="https://github.com/devyeony/algorithm-study/pulls?q=is%3Apr+is%3Aopen"><img src="https://img.shields.io/github/issues-pr-raw/devyeony/algorithm-study?color=gree"></a>
+<a href="https://github.com/devyeony/algorithm-study/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/devyeony/algorithm-study?color=red"></a>
 
 [알고리즘 문제 커리큘럼 참고](https://solved.ac/problems/tags)
 |Period|Theme|Issue|Code|Presentation|
