@@ -19,7 +19,10 @@
 <a href="https://github.com/devyeony/algorithm-study/pulls?q=is%3Apr+is%3Aopen"><img src="https://img.shields.io/github/issues-pr-raw/devyeony/algorithm-study?color=gree"></a>
 <a href="https://github.com/devyeony/algorithm-study/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/devyeony/algorithm-study?color=red"></a>
 
-[알고리즘 문제 커리큘럼 참고](https://solved.ac/problems/tags)
+- 알고리즘 문제 커리큘럼 참고
+  - [solved.ac 문제 태그](https://solved.ac/problems/tags)
+  - [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+
 |Period|Theme|Issue|Code|Presentation|
 |:---:|:---:|:---:|:---:|:---:|
 |2022-05-26 ~ |자유주제(Others)|[이슈](https://github.com/devyeony/algorithm-study/issues/3)|[문제풀이](https://github.com/devyeony/algorithm-study/tree/main/00_others)||
