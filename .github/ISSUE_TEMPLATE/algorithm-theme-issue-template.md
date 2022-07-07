@@ -3,7 +3,7 @@ name: Algorithm Theme Issue Template
 about: 알고리즘 주제 이슈 템플릿
 title: '알고리즘 주제 : ##'
 labels: 'problem solving'
-assignees: 'devyeony, iamleonardjeong, Orwoong, jo1013'
+assignees: 'devyeony, iamhoonjeong, Orwoong, jo1013'
 
 ---
 
