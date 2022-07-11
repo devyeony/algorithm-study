@@ -1,8 +1,8 @@
 const balancedStringSplit = (s) => {
   let array = s.split('');
   let currentTerm = array.shift();
-  let isNewTerm = false;
   let countSameWord = 1;
+  let isNewTerm = false;
   let result = 0;
 
   while (array.length) {
@@ -22,5 +22,6 @@ const balancedStringSplit = (s) => {
       array.shift();
     }
   }
+
   return result;
 };
