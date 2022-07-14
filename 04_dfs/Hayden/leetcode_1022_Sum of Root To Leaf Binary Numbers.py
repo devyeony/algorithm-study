@@ -31,6 +31,7 @@ class Solution:
             self.dfs(node.right, current_str + str(node.right.val))
 
 
+# input
 leaf1: Optional[TreeNode] = TreeNode(0, None, None)
 leaf2: Optional[TreeNode] = TreeNode(1, None, None)
 middle1: Optional[TreeNode] = TreeNode(0, leaf1, leaf2)
@@ -41,5 +42,6 @@ middle2: Optional[TreeNode] = TreeNode(1, leaf3, leaf4)
 
 root: Optional[TreeNode] = TreeNode(1, middle1, middle2)
 
+# run
 sol = Solution()
 print(sol.sumRootToLeaf(root))
