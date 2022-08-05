@@ -15,16 +15,16 @@ class Solution:
         self.searchTree(root, -(10 ** 4))
         return self.answer
 
-    def searchTree(self, tree: TreeNode, max_value: int):
-        if tree is None:
+    def searchTree(self, node: TreeNode, max_value: int):
+        if node is None:
             return
 
-        if tree.val >= max_value:
+        if node.val >= max_value:
             self.answer += 1
-            max_value = tree.val
+            max_value = node.val
 
-        self.searchTree(tree.left, max_value)
-        self.searchTree(tree.right, max_value)
+        self.searchTree(node.left, max_value)
+        self.searchTree(node.right, max_value)
 
 
 sol = Solution()
