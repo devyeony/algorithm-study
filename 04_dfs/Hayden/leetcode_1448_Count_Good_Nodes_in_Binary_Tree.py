@@ -1,4 +1,4 @@
-# #35 - LeetCode : 1448. Count Good Nodes in Binary Tree
+# #30 - LeetCode : 1448. Count Good Nodes in Binary Tree
 
 # Definition for a binary tree node.
 class TreeNode:
